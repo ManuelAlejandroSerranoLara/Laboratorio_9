@@ -15,7 +15,7 @@
     <string name="HintBorrar">Aqui Aparece El Usuario a Borrar</string>
 
     <string name="Agregar">Agregar Datos</string>
-    <string name="Ver">Ver Datos</string>
+    <string name="Ver">Ver </string>
     <string name="Actualizar">Actualizar Datos</string>
     <string name="Borrar">Borrar Usuario</string>
 </resources>
