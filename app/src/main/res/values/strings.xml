@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Laboratorio_9</string>
+
+    <string name="AgregarUsuario">Aregar Usuario</string>
+    <string name="VerUsuario">Actualizar Nombre de Usuario</string>
+    <string name="BorrarUsuario">Borrar Usuario</string>
+
+    <string name="HintUsername">Invente Un Nombre de Usuario</string>
+    <string name="HintPassword">Invente Una Contraseña</string>
+    <string name="Helper">Requerido</string>
+
+    <string name="HintUsername2">Aqui Aparece El Nombre de Usuario Actual</string>
+    <string name="HintUsername3">Escribir Nuevo Nombre de Usuario</string>
+
+    <string name="HintBorrar">Aqui Aparece El Usuario a Borrar</string>
+
+    <string name="Agregar">Agregar Datos</string>
+    <string name="Ver">Ver Datos</string>
+    <string name="Actualizar">Actualizar Datos</string>
+    <string name="Borrar">Borrar Usuario</string>
+</resources>
